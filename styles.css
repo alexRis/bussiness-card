@@ -34,6 +34,7 @@ body {
 .avatar:hover{
     width: 200px;
     cursor: pointer;
+    border-radius: 20px;
 }
 .border-blue {
     border: 1px dotted blue;
